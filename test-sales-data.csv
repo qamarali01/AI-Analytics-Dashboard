@@ -1,0 +1,13 @@
+Month,Sales,Profit,Region,Product
+January,12000,2400,North,Laptops
+February,15000,3000,North,Smartphones
+March,18000,3600,North,Tablets
+April,14000,2800,South,Laptops
+May,16000,3200,South,Smartphones
+June,19000,3800,South,Tablets
+July,22000,4400,East,Laptops
+August,25000,5000,East,Smartphones
+September,28000,5600,East,Tablets
+October,20000,4000,West,Laptops
+November,23000,4600,West,Smartphones
+December,26000,5200,West,Tablets 

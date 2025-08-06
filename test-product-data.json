@@ -1,0 +1,66 @@
+[
+  {
+    "product": "MacBook Pro",
+    "category": "Laptops",
+    "price": 1299,
+    "stock": 45,
+    "rating": 4.8,
+    "brand": "Apple"
+  },
+  {
+    "product": "iPhone 15",
+    "category": "Smartphones",
+    "price": 799,
+    "stock": 120,
+    "rating": 4.6,
+    "brand": "Apple"
+  },
+  {
+    "product": "Samsung Galaxy S24",
+    "category": "Smartphones",
+    "price": 899,
+    "stock": 85,
+    "rating": 4.5,
+    "brand": "Samsung"
+  },
+  {
+    "product": "Dell XPS 13",
+    "category": "Laptops",
+    "price": 999,
+    "stock": 32,
+    "rating": 4.4,
+    "brand": "Dell"
+  },
+  {
+    "product": "iPad Air",
+    "category": "Tablets",
+    "price": 599,
+    "stock": 67,
+    "rating": 4.7,
+    "brand": "Apple"
+  },
+  {
+    "product": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 349,
+    "stock": 95,
+    "rating": 4.9,
+    "brand": "Sony"
+  },
+  {
+    "product": "LG OLED TV",
+    "category": "TVs",
+    "price": 1499,
+    "stock": 18,
+    "rating": 4.8,
+    "brand": "LG"
+  },
+  {
+    "product": "Nintendo Switch",
+    "category": "Gaming",
+    "price": 299,
+    "stock": 150,
+    "rating": 4.6,
+    "brand": "Nintendo"
+  }
+] 

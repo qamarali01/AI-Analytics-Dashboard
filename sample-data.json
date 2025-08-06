@@ -1,0 +1,58 @@
+[
+  {
+    "product": "Laptop",
+    "category": "Electronics",
+    "price": 999,
+    "stock": 45,
+    "rating": 4.5
+  },
+  {
+    "product": "Smartphone",
+    "category": "Electronics",
+    "price": 699,
+    "stock": 78,
+    "rating": 4.3
+  },
+  {
+    "product": "Headphones",
+    "category": "Audio",
+    "price": 199,
+    "stock": 120,
+    "rating": 4.7
+  },
+  {
+    "product": "Tablet",
+    "category": "Electronics",
+    "price": 449,
+    "stock": 32,
+    "rating": 4.2
+  },
+  {
+    "product": "Speaker",
+    "category": "Audio",
+    "price": 299,
+    "stock": 65,
+    "rating": 4.4
+  },
+  {
+    "product": "Monitor",
+    "category": "Electronics",
+    "price": 349,
+    "stock": 28,
+    "rating": 4.6
+  },
+  {
+    "product": "Keyboard",
+    "category": "Accessories",
+    "price": 89,
+    "stock": 95,
+    "rating": 4.1
+  },
+  {
+    "product": "Mouse",
+    "category": "Accessories",
+    "price": 49,
+    "stock": 150,
+    "rating": 4.0
+  }
+] 

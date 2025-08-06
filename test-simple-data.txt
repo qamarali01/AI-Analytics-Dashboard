@@ -1,0 +1,11 @@
+Name,Score,Grade
+Alice,95,A
+Bob,87,B
+Charlie,92,A
+Diana,78,C
+Eve,96,A
+Frank,83,B
+Grace,89,B
+Henry,91,A
+Ivy,76,C
+Jack,94,A 
