@@ -47,6 +47,7 @@ A powerful AI-powered dashboard that allows users to upload data, get instant in
 - **State Management**: React Query + React hooks
 - **Routing**: React Router DOM
 - **Icons**: Lucide React
+- **OpenAI**
 
 ## 📦 Installation
 
