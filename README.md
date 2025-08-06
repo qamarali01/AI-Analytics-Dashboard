@@ -132,6 +132,7 @@ Create a `.env` file in the root directory:
 ```env
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+VITE_OPENAI_API_KEY=your_openai_api
 ```
 
 ### Supabase Setup
@@ -141,39 +142,9 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 ## 🚀 Deployment
 
-### Using Lovable
-Simply open [Lovable](https://lovable.dev/projects/64971f48-3c26-4ffc-ae9d-e58ab5357233) and click on Share -> Publish.
-
 ### Manual Deployment
 1. Build the project: `npm run build`
 2. Deploy the `dist` folder to your hosting provider
 3. Configure environment variables on your hosting platform
 
-## 🔮 Future Enhancements
 
-- [ ] Real AI integration (OpenAI, Anthropic, etc.)
-- [ ] Advanced chart types (scatter plots, heatmaps)
-- [ ] Data export functionality
-- [ ] Collaborative features
-- [ ] Advanced data analysis tools
-- [ ] Custom dashboard layouts
-- [ ] API integrations for external data sources
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🆘 Support
-
-For support, please open an issue in the GitHub repository or contact the development team.
-
----
-
-**Built with ❤️ using modern web technologies**
